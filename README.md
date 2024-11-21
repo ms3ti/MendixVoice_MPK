@@ -4,6 +4,9 @@ Experimentos com IA Generativa usando voz.
 
 Este é um projeto simples criado para ajudar a começar com integração de voz. Ele inclui um módulo Mendix chamado RetellAI, que é a tecnologia que usamos para converter voz em texto, enviar para um LLM e converter a resposta de volta para voz.
 
+### Configuração:
+[Vídeo de Configuração](https://www.youtube.com/watch?v=YG79zEUgFPA)
+
 Este vídeo mostra como criar uma conta no RetellAI (é gratuito e fácil). Configure seu agente de voz e obtenha as chaves necessárias (API Key e Agent Key) para usar no projeto.
 
 ### Algumas observações:
